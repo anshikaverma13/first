@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    padding:20px;
+    font-family: 'Varela Round', sans-serif;
+    border-left: 0cap;
+  }
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    background:url(https://img.freepik.com/free-vector/white-abstract-background_23-2148810113.jpg?w=996&t=st=1682052098~exp=1682052698~hmac=bab6b27bc2426abeaf2f307ee3e1ed4b1e960cf4ba576d7e282e7adefac44c78);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  div.main{
+    width:800px;
+    margin:100px auto 0px auto;
+  }
+  div.register{
+    background-color: rgba(255,0,0,0.4);
+    width: 100%;
+    font-size: 18px;
+    border-radius: 20px;
+    border:1px solid rgba(255, 255, 255);
+    box-shadow: 4px 4px 15px rgba(0,0,0,0.3);
+    color: #fff;
+    
+  }
